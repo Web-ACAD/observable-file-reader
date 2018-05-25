@@ -36,3 +36,5 @@ readFileAsDataURL(file).subscribe((data: string) => {
 
 * `readFileAsDataURL`: same as [FileReader.readAsDataURL](https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL)
 * `readFileAsBase64`: same as `readFileAsDataURL` function but strips the base64 url prefix
+* `readFileInChunksAsDataURL`: same as `readFileAsDataURL` function, but emitted in chunks
+* `readFileInChunksAsBase64`: same as `readFileAsBase64` function, but emitted in chunks
