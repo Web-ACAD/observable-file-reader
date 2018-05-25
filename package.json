@@ -1,7 +1,7 @@
 {
 	"name": "@webacad/observable-file-reader",
 	"description": "Read file inputs with rxjs observables",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"keywords": [
 		"rxjs",
 		"observable",
