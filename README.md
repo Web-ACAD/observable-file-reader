@@ -5,17 +5,19 @@
 
 Read file inputs with rxjs observables.
 
+## Dependencies
+
+* `rxjs`
+
 ## Installation
 
 ```bash
-$ npm install --save rxjs ^5.5.0
 $ npm install --save @webacad/observable-file-reader
 ```
 
 or with yarn
 
 ```bash
-$ yarn add rxjs ^5.5.0
 $ yarn add @webacad/observable-file-reader
 ```
 
